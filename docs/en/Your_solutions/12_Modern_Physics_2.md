@@ -6,7 +6,7 @@ For the $n=3$ energy level in a hydrogen atom, what are the possible values for 
 
 ## 2. Energy Scaling
 
-State the general dependence of energy E on the principal quantum number n (i.e., $E_n \propto n^?$) for:
+State the general dependence of energy E on the principal quantum number n (i.e., establish power of n in the formula $E_n \propto n^?$) for:
 
 a) A particle in a one-dimensional infinite potential well.
 

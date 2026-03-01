@@ -20,19 +20,31 @@ Calculate the magnitude of the electric force and the gravitational force betwee
 
 What electric field strength is required to make a proton levitate against Earth's gravity at the level of the Earth's surface? (Mass of proton $m_p \approx 1.67 \times 10^{-27} \text{ kg}$, charge of proton $e \approx 1.6 \times 10^{-19} \text{ C}$, gravitational acceleration $g \approx 9.8 \text{ m/s}^2$).
 
-## 6. Cyclotron Motion
+##  6. Field at a point from a system of charges
+
+Two point charges are given:
+
+* $+q\  \text{at point}\  (-a, 0)$
+* $+2q\  \text{at point}\  (a, 0)$
+
+1. Determine the field vector $\vec E(0, y)$, $\vec E(x, 0)$ and generally $\vec E(x, y)$.
+2. Determine the condition for which the components $E_x = 0$, $E_y = 0$ and the zero field $\vec E = 0$.
+3. Calculate the field for: $a = 0.2\,\mathrm{m}$, $y = 0.3\,\mathrm{m}$, $q = 2\,\mu\mathrm{C}$.
+4. Investigate the limit $y \gg a$.
+
+##  7. Cyclotron Motion
 
 An electron is accelerated from rest through a potential difference of 5000 V. It then enters a region of uniform magnetic field B = 0.1 T, perpendicular to its velocity. What is the radius of the circular path it will follow?
 
-## 7. Lorentz Force
+## 8. Lorentz Force
 
 A charged particle with charge $q = 2 \times 10^{-19}$ C and mass $m = 4 \times 10^{-27}$ kg enters a magnetic field of $B = 0.5$ T at a speed of $v = 10^6$ m/s perpendicular to the field. What is the magnitude of the Lorentz force acting on the particle?
 
-## 8. Vector Lorentz Force
+## 9. Vector Lorentz Force
 
 A proton moves with a velocity $\vec{v} = (2\hat{i} - 4\hat{j} + \hat{k}) \text{ m/s}$ in a region where the magnetic field is $\vec{B} = (\hat{i} + 2\hat{j} - \hat{k}) \text{ T}$. What is the magnitude of the magnetic force this charge experiences?
 
-## 9. Lorentz Force on Wire
+## 10. Lorentz Force acting on Wire
 
 A straight wire 2.0 m long carries a current of 10 A. It is placed in a uniform magnetic field of B = 0.5 T. Calculate the magnetic force on the wire if the angle between the wire and the magnetic field is:
 
@@ -40,6 +52,3 @@ a) $90^\circ$
 b) $45^\circ$
 c) $0^\circ$
 
-## 10. Mass Spectrometry
-
-A proton (charge $+e$, mass $m_p$) and an alpha particle (charge $+2e$, mass $\approx 4m_p$) enter a uniform magnetic field with the same velocity, perpendicular to the field lines. What is the ratio of the radii of their circular paths, $r_p / r_\alpha$?
