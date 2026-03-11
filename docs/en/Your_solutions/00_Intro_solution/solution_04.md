@@ -23,7 +23,7 @@ When rearranging equations, we use inverse operations:
 - multiplication ↔ division
 - square root ↔ squaring
 
-Since the formula contains a square root, we will need to square both sides at one step.
+Since the formula contains a square root, we will need to square both sides at one step
 
 ---
 
