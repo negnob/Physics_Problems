@@ -2,181 +2,111 @@
 
 Consider the Universal Law of Gravitation:
 
-\[
-F = G \frac{m_1 m_2}{r^2}
-\]
+$$F=G\frac{m_1m_2}{r^2}$$
 
-where:
-- $F$ is the gravitational force,
-- $m_1$ and $m_2$ are the two masses,
-- $r$ is the distance between their centers,
-- $G$ is the gravitational constant.
+where  
+- $F$ is the gravitational force  
+- $m_1,m_2$ are the masses  
+- $r$ is the distance between their centers  
+- $G$ is the gravitational constant  
 
-We need to determine by what **factor** the force changes if:
-- the distance $r$ is **doubled**,
-- both masses $m_1$ and $m_2$ are **halved**.
+We need to determine how the force changes if:
+- the distance $r$ is doubled
+- both masses $m_1$ and $m_2$ are halved.
 
 ---
 
 ## Useful Definitions and Formulas
 
-### 1. Proportionality
-A quantity is said to be:
+### 1. Direct proportionality
+A quantity is **directly proportional** to another if increasing one increases the other.
 
-- **directly proportional** to another if it increases or decreases together with it,
-- **inversely proportional** if it decreases when the other increases.
+From the formula we see that:
 
-From the formula
+$$F\propto m_1$$
 
-\[
-F = G \frac{m_1 m_2}{r^2}
-\]
+$$F\propto m_2$$
 
-we can see that:
-
-- $F$ is **directly proportional** to $m_1$,
-- $F$ is **directly proportional** to $m_2$,
-- $F$ is **inversely proportional** to $r^2$.
-
-So in short:
-
-\[
-F \propto \frac{m_1 m_2}{r^2}
-\]
+So increasing the masses increases the force.
 
 ---
 
-### 2. How to compare the new force with the old force
-If the variables change, we can write:
+### 2. Inverse square proportionality
 
-\[
-F_{\text{new}} = G \frac{m_{1,\text{new}} m_{2,\text{new}}}{r_{\text{new}}^2}
-\]
+The force is inversely proportional to the **square of the distance**:
 
-Then compare it with the original force:
+$$F\propto\frac{1}{r^2}$$
 
-\[
-F_{\text{old}} = G \frac{m_1 m_2}{r^2}
-\]
-
-The ratio
-
-\[
-\frac{F_{\text{new}}}{F_{\text{old}}}
-\]
-
-tells us the **factor of change**.
+This means if the distance increases, the force decreases according to the square of that change.
 
 ---
 
-## Step-by-step Solution
+## Step-by-Step Solution
 
-### Step 1: Write the original formula
+### Step 1. Write the original force
 
-The original force is:
-
-\[
-F = G \frac{m_1 m_2}{r^2}
-\]
+$$F=G\frac{m_1m_2}{r^2}$$
 
 ---
 
-### Step 2: Apply the changes to the variables
+### Step 2. Apply the changes
 
-We are told that:
+Masses are halved:
 
-- both masses are halved:
+$$m_1'=\frac{m_1}{2}$$
 
-\[
-m_{1,\text{new}} = \frac{m_1}{2}, \qquad m_{2,\text{new}} = \frac{m_2}{2}
-\]
+$$m_2'=\frac{m_2}{2}$$
 
-- the distance is doubled:
+Distance is doubled:
 
-\[
-r_{\text{new}} = 2r
-\]
+$$r'=2r$$
 
 ---
 
-### Step 3: Substitute into the formula
+### Step 3. Substitute into the formula
 
-Now compute the new force:
-
-\[
-F_{\text{new}} = G \frac{\left(\frac{m_1}{2}\right)\left(\frac{m_2}{2}\right)}{(2r)^2}
-\]
+$$F_{new}=G\frac{\left(\frac{m_1}{2}\right)\left(\frac{m_2}{2}\right)}{(2r)^2}$$
 
 ---
 
-### Step 4: Simplify the numerator
+### Step 4. Simplify the masses
 
-Multiply the masses:
+$$\left(\frac{m_1}{2}\right)\left(\frac{m_2}{2}\right)=\frac{m_1m_2}{4}$$
 
-\[
-\left(\frac{m_1}{2}\right)\left(\frac{m_2}{2}\right) = \frac{m_1 m_2}{4}
-\]
+So the expression becomes
 
-So:
-
-\[
-F_{\text{new}} = G \frac{\frac{m_1 m_2}{4}}{(2r)^2}
-\]
+$$F_{new}=G\frac{\frac{m_1m_2}{4}}{(2r)^2}$$
 
 ---
 
-### Step 5: Simplify the denominator
+### Step 5. Simplify the distance term
 
-Square the distance:
+$$(2r)^2=4r^2$$
 
-\[
-(2r)^2 = 4r^2
-\]
+Now we get
 
-So now:
-
-\[
-F_{\text{new}} = G \frac{\frac{m_1 m_2}{4}}{4r^2}
-\]
+$$F_{new}=G\frac{\frac{m_1m_2}{4}}{4r^2}$$
 
 ---
 
-### Step 6: Simplify the whole expression
+### Step 6. Final simplification
 
-Dividing by $4r^2$ is the same as multiplying by $\frac{1}{4r^2}$:
+$$F_{new}=G\frac{m_1m_2}{16r^2}$$
 
-\[
-F_{\text{new}} = G \cdot \frac{m_1 m_2}{4} \cdot \frac{1}{4r^2}
-\]
+Compare with the original force
 
-\[
-F_{\text{new}} = G \frac{m_1 m_2}{16r^2}
-\]
+$$F=G\frac{m_1m_2}{r^2}$$
 
-Compare this with the original force:
+Therefore
 
-\[
-F = G \frac{m_1 m_2}{r^2}
-\]
-
-So:
-
-\[
-F_{\text{new}} = \frac{1}{16}F
-\]
+$$F_{new}=\frac{1}{16}F$$
 
 ---
 
 ## Final Answer
 
-\[
-\boxed{F_{\text{new}} = \frac{1}{16}F}
-\]
+The gravitational force becomes
 
-So the gravitational force becomes **16 times smaller**.
+$$\boxed{\frac{1}{16}F}$$
 
-The force changes by a factor of:
-
-\[
-\boxed{\frac{1}{16}}
-\]
+So the force is **16 times smaller** than the original force.
