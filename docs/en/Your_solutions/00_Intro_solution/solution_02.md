@@ -9,11 +9,11 @@ A **solution** is the pair of values that satisfies **all equations simultaneous
 Example form:
 
 \[
-a_1x + b_1y = c_1
+a1x + b1y = c1
 \]
 
 \[
-a_2x + b_2y = c_2
+a2x + b2y = c2
 \]
 
 ---
@@ -146,3 +146,4 @@ Second equation:
 \]
 
 Both equations are satisfied ✔
+
