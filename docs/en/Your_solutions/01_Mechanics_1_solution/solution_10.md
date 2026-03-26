@@ -73,31 +73,10 @@ This is the required exact formula.
 
 ---
 
-### c) Python code to draw the trajectory
+### c) Graph
 
-```python
-import numpy as np
-import matplotlib.pyplot as plt
+<img width="502" height="506" alt="image" src="https://github.com/user-attachments/assets/cd55616d-9ffe-4a36-aebb-793c2e418ff2" />
 
-a = 3
-b = 2
-omega = 1
-t0 = 10
-
-t = np.linspace(0, t0, 1000)
-x = a * np.cos(omega * t)
-y = b * np.sin(omega * t)
-z = b * t
-
-fig = plt.figure(figsize=(8, 6))
-ax = fig.add_subplot(111, projection='3d')
-ax.plot(x, y, z)
-ax.set_xlabel('x')
-ax.set_ylabel('y')
-ax.set_zlabel('z')
-ax.set_title('Elliptical Helix')
-plt.show()
-```
 
 ---
 
