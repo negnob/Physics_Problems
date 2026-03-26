@@ -109,7 +109,6 @@ $$
 $$
 a(3)=8
 $$
-
 ---
 
 ## Plot the velocity and acceleration
