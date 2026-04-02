@@ -65,3 +65,6 @@ $$v_f=1.9175\text{ m/s}$$
 The speed of the combined mass just after collision is
 
 $$\boxed{v_f\approx1.92\text{ m/s}}$$
+
+
+<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/5ef73ac7-0d05-49cc-9fda-e4190bbd69ad" />
