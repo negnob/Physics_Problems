@@ -97,3 +97,6 @@ $$\boxed{k=1000\pi^2\text{ N/m}\approx9869.6\text{ N/m}}$$
 Total mechanical energy:
 
 $$\boxed{E=20\pi^2\text{ J}\approx197.4\text{ J}}$$
+
+<img width="587" height="455" alt="image" src="https://github.com/user-attachments/assets/9f1f0f76-b9ee-48ba-825d-a7a1cd65eb40" />
+
