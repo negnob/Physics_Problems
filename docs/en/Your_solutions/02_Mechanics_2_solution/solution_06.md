@@ -47,3 +47,7 @@ $$h_2=0.7h_1=0.7(1.4)=0.98\text{ m}$$
 The ball rises after the second bounce to
 
 $$\boxed{0.98\text{ m}}$$
+
+
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/670278f1-3c12-4b20-a793-97225e2b96f6" />
+
