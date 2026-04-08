@@ -12,19 +12,46 @@ where:
 - $v$ is speed
 - $t$ is time
 
-For an echo:
-- the sound goes **to the cliff**
-- then it comes **back**
+This formula means:
 
-So the total distance traveled by sound is:
+- distance equals speed multiplied by time
+- if something moves faster, it covers more distance in the same time
+- if it moves longer, it also covers more distance
+
+---
+
+### Important idea (very important for explanation)
+
+For an echo:
+
+- the sound does NOT stop at the cliff
+- it travels **to the cliff**
+- then it reflects and travels **back to the person**
+
+So the time we measure ($t=1$ s) is the time for the **full trip**, not just one way.
+
+That means:
+
+- the sound traveled **twice the distance**
+- first distance = going to the cliff
+- second distance = coming back
+
+So the total distance is:
 
 $$2x=vt$$
 
-where $x$ is the one-way distance to the cliff
+where:
+
+- $x$ is the one-way distance to the cliff
 
 To find $x$, divide both sides by $2$:
 
 $$x=\frac{vt}{2}$$
+
+This division by 2 is very important:
+
+- because we only want the distance **to the cliff**
+- not the full round trip
 
 ---
 
@@ -35,23 +62,51 @@ We are given:
 - $t=1\text{ s}$
 - $v=343\text{ m/s}$
 
-Use:
+We use:
 
 $$x=\frac{vt}{2}$$
 
-Substitute:
+---
+
+### 1) Substitute the values
 
 $$x=\frac{343\cdot1}{2}$$
 
+Explanation:
+
+- we replace $v$ with $343$
+- we replace $t$ with $1$
+- we multiply speed by time to get total distance
+
+---
+
+### 2) Multiply
+
 $$x=\frac{343}{2}$$
+
+Explanation:
+
+- $343 \cdot 1 = 343$
+- this is the total distance the sound traveled (there and back)
+
+---
+
+### 3) Divide by 2
 
 $$x=171.5\text{ m}$$
 
 Explanation:
 
-- in 1 second, the sound traveled all the way there and back
-- so that total path is $343\text{ m}$
-- but the cliff is only half of that distance away
+- we divide by 2 because the sound traveled the distance twice
+- so we take only half to get the real distance to the cliff
+
+---
+
+### 4) Physical meaning
+
+- in 1 second, sound traveled $343$ meters total
+- but this includes going to the cliff AND coming back
+- so the actual distance to the cliff is half of that
 
 ---
 
