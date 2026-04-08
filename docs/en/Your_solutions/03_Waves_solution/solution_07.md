@@ -109,7 +109,7 @@ $$\lambda=40\text{ cm}$$
 
 ---
 
-### 6) Physical meaning (очень полезно сказать)
+### 6) Physical meaning 
 
 - the total string length contains 4 half-wavelengths
 - so in total, the string contains 2 full wavelengths
@@ -124,5 +124,3 @@ $$\lambda=0.40\text{ m}$$
 or
 
 $$\lambda=40\text{ cm}$$
-
----
