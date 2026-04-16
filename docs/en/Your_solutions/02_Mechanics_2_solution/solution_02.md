@@ -1,102 +1,169 @@
-## 2. Harmonic Motion
-
-A mass
-
-$$m=10\text{ kg}$$
-
-oscillates as
-
-$$x(t)=0.2\cos(10\pi t)$$
-
-We need:
-- the spring constant $k$
-- the total mechanical energy
+# 📘 Harmonic Motion — Mass–Spring System
 
 ---
 
-## Useful Definitions and Formulas
+## 🔑 Key Definitions and Formulas
 
-For simple harmonic motion,
+### 📌 Equation of Simple Harmonic Motion
 
-$$x(t)=A\cos(\omega t)$$
+$$
+x(t)=A\cos(\omega t)
+$$
+
+where:
+- $A$ — amplitude
+- $\omega$ — angular frequency
+
+---
+
+### 📌 Relation Between Angular Frequency and Spring Constant
+
+$$
+\omega=\sqrt{\frac{k}{m}}
+$$
+
+From this:
+
+$$
+k=m\omega^2
+$$
+
+---
+
+### 📌 Total Mechanical Energy
+
+For a spring system:
+
+$$
+E=\frac{1}{2}kA^2
+$$
+
+---
+
+## 🧩 Given:
+
+- $m=10\ \text{kg}$
+- $x(t)=0.2\cos(10\pi t)$
 
 So:
-- amplitude is $A$
-- angular frequency is $\omega$
 
-For a mass-spring system,
-
-$$\omega=\sqrt{\frac{k}{m}}$$
-
-So
-
-$$k=m\omega^2$$
-
-Total mechanical energy:
-
-$$E=\frac{1}{2}kA^2$$
+- $A=0.2\ \text{m}$
+- $\omega=10\pi\ \text{rad/s}$
 
 ---
 
-## Step-by-Step Solution
+# 🔍 Step 1: Find Spring Constant $k$
 
-From
+### 🔄 Use formula:
 
-$$x(t)=0.2\cos(10\pi t)$$
-
-we identify:
-
-$$A=0.2\text{ m}$$
-
-$$\omega=10\pi\text{ rad/s}$$
+$$
+k=m\omega^2
+$$
 
 ---
 
-### Step 1. Find $k$
+### 🔄 Substitute:
 
-Use
-
-$$k=m\omega^2$$
-
-Substitute:
-
-$$k=10(10\pi)^2$$
-
-$$k=10\cdot100\pi^2=1000\pi^2$$
-
-Numerically,
-
-$$k\approx1000\cdot9.87\approx9869.6\text{ N/m}$$
+$$
+k=10\cdot(10\pi)^2
+$$
 
 ---
 
-### Step 2. Find total mechanical energy
+### 🔄 Simplify:
 
-Use
+$$
+(10\pi)^2=100\pi^2
+$$
 
-$$E=\frac{1}{2}kA^2$$
-
-Substitute:
-
-$$E=\frac{1}{2}(1000\pi^2)(0.2)^2$$
-
-$$E=\frac{1}{2}(1000\pi^2)(0.04)=20\pi^2$$
-
-Numerically,
-
-$$E\approx20\cdot9.87\approx197.4\text{ J}$$
+$$
+k=10\cdot100\pi^2=1000\pi^2
+$$
 
 ---
 
-## Final Answer
+### 🔄 Numerical value:
 
-Spring constant:
+$$
+k\approx1000\cdot9.87\approx9870\ \text{N/m}
+$$
 
-$$\boxed{k=1000\pi^2\text{ N/m}\approx9869.6\text{ N/m}}$$
+---
 
-Total mechanical energy:
+## ✅ Spring Constant:
 
-$$\boxed{E=20\pi^2\text{ J}\approx197.4\text{ J}}$$
+$$
+k\approx9.87\times10^3\ \text{N/m}
+$$
 
+---
+
+# 🔍 Step 2: Total Mechanical Energy
+
+### 🔄 Use formula:
+
+$$
+E=\frac{1}{2}kA^2
+$$
+
+---
+
+### 🔄 Substitute:
+
+$$
+E=\frac{1}{2}\cdot1000\pi^2\cdot(0.2)^2
+$$
+
+---
+
+### 🔄 Simplify:
+
+$$
+(0.2)^2=0.04
+$$
+
+$$
+E=\frac{1}{2}\cdot1000\pi^2\cdot0.04
+$$
+
+$$
+E=500\cdot0.04\cdot\pi^2=20\pi^2
+$$
+
+---
+
+### 🔄 Numerical value:
+
+$$
+E\approx20\cdot9.87\approx197.4\ \text{J}
+$$
+
+---
+
+## ✅ Total Energy:
+
+$$
+E\approx1.97\times10^2\ \text{J}
+$$
+
+---
+
+# 🎯 Final Results
+
+- Spring constant:
+  
+$$
+k\approx9870\ \text{N/m}
+$$
+
+- Total mechanical energy:
+  
+$$
+E\approx197\ \text{J}
+$$
+
+---
+
+![alt text](image-1.png)
 <img width="587" height="455" alt="image" src="https://github.com/user-attachments/assets/9f1f0f76-b9ee-48ba-825d-a7a1cd65eb40" />
 
