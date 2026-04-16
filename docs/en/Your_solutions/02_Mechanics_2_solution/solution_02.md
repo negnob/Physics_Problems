@@ -164,6 +164,5 @@ $$
 
 ---
 
-![alt text](image-1.png)
 <img width="587" height="455" alt="image" src="https://github.com/user-attachments/assets/9f1f0f76-b9ee-48ba-825d-a7a1cd65eb40" />
 
