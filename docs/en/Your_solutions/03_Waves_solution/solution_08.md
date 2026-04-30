@@ -159,11 +159,17 @@ $$y(x,t)=A(x-vt)^2$$
 
 This wave moves to the right.
 
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/14e0254d-68cb-43de-a18a-6cf70803e575" />
+
+
 ### c)
 
 $$y(x,t)=A\log(x+vt)$$
 
 This wave moves to the left.
+
+<img width="565" height="455" alt="image" src="https://github.com/user-attachments/assets/3164a9fc-96dd-474c-b8b6-395304036551" />
+
 
 The function that cannot describe a standard traveling wave is:
 
@@ -172,3 +178,6 @@ The function that cannot describe a standard traveling wave is:
 $$y(x,t)=A\cos(kx^2-\omega t)$$
 
 because it contains $x^2$ and cannot be written as $f(x-vt)$ or $f(x+vt)$.
+
+<img width="587" height="455" alt="image" src="https://github.com/user-attachments/assets/4405ee7e-c6a5-46d6-abee-0366ba41de8a" />
+
