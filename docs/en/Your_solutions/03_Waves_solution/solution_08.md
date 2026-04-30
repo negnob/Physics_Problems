@@ -1,4 +1,15 @@
 ## 8. Waves
+Which of the following functions can describe a traveling wave? Hint: check if it satisfies the wave equation 
+
+$$\frac{\partial^2 y}{\partial x^2} = \frac{1}{v^2} \frac{\partial^2 y}{\partial t^2}$$
+
+a) $y(x,t) = A \cos(kx^2 - \omega t)$
+
+b) $y(x,t) = A(x-vt)^2$
+
+c) $y(x,t) = A \log(x+vt)$
+
+---
 
 ### Useful definitions and formulas
 
