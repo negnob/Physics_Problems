@@ -1,5 +1,12 @@
 ## 1. Gauss's Law
 
+--- 
+
+## Task
+A point charge of $+2 \text{ C}$ is located at the origin. Calculate the electric flux through a spherical surface of radius $1 \text{ m}$ centered at the origin.
+
+---
+
 ### Useful definitions and formulas
 
 Electric flux $\Phi_E$ shows how much electric field passes through a surface.
