@@ -1,4 +1,9 @@
 ## 3. Electrostatic Equilibrium
+---
+
+Find the equilibrium position for a charge $q_3 = +1\text{C}$ placed on the line between a charge $q_1 = +4\text{C}$ and a charge $q_2 = +9\text{C}$, which are separated by a distance of 2 m.
+
+---
 
 ### Useful definitions and formulas
 
