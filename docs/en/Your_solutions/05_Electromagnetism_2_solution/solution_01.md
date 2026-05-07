@@ -66,3 +66,6 @@ The electric flux through the spherical surface is approximately:
 $$2.26\times10^{11}\,\frac{N\cdot m^2}{C}$$
 
 Direction: outward from the sphere.
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/06695828-eae4-4eee-af80-121f48fd4dc3" />
+
