@@ -16,6 +16,26 @@ Current from the battery:
 
 $$I=\frac{V}{R_{eq}}$$
 
+## Ohm’s Law
+
+Ohm’s Law describes the relationship between voltage, current, and resistance in an electrical circuit.
+
+The formula is:
+
+I = V / R
+
+where:
+
+I — current (A)  
+V — voltage (V)  
+R — resistance (Ω)
+
+Ohm’s Law shows that:
+- higher voltage produces higher current
+- higher resistance reduces current
+
+In this problem, we first calculate the equivalent resistance of the circuit and then use Ohm’s Law to find the current flowing from the battery.
+
 ---
 
 ### Parallel connection
