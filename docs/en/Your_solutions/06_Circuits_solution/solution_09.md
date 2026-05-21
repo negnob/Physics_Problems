@@ -1,5 +1,7 @@
 # 9. Current
 
+Charge flowing through the wire is given by the function of time $Q(t) = 5t^2+5$. What is the current at $t=3$ s?
+
 ## Useful definitions and formulas
 
 Current is the rate of change of charge:
