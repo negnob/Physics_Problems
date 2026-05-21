@@ -22,7 +22,7 @@ Ohm’s Law describes the relationship between voltage, current, and resistance 
 
 The formula is:
 
-I = V / R
+$$I=\frac{V}{R}$$
 
 where:
 
