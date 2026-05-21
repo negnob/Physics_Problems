@@ -52,6 +52,8 @@ $$V=12\,V$$
 
 # Case 1 — Series Connection
 
+<img width="954" height="305" alt="image" src="https://github.com/user-attachments/assets/774196bf-2d0f-4c99-9ec0-dcc05c408f2d" />
+
 ### Total equivalent resistance
 
 $$R_{eq}=15+30+50$$
@@ -81,6 +83,8 @@ $$I=0.126\,A$$
 ---
 
 # Case 2 — Parallel Connection
+
+<img width="917" height="307" alt="image" src="https://github.com/user-attachments/assets/6265d86f-80fc-47b3-85d3-72fba30e247d" />
 
 ### Total equivalent resistance
 
