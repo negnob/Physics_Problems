@@ -99,7 +99,7 @@ $$R_{eq}=95\,\Omega$$
 Current:
 
 $$I=0.126\,A$$
-
+series connection increases resistance and decreases current
 ---
 
 # Case 2 — Parallel Connection
@@ -139,3 +139,4 @@ $$R_{eq}=8.33\,\Omega$$
 Current:
 
 $$I=1.44\,A$$
+parallel connection decreases resistance and increases current
