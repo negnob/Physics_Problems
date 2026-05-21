@@ -4,15 +4,19 @@ Charge flowing through the wire is given by the function of time $Q(t)=5t^2+5$. 
 
 ## Useful definitions and formulas
 
-Current is the rate of change of charge:
+Current is the rate of change of electric charge with respect to time.
 
 $$I(t)=\frac{dQ}{dt}$$
 
 where:
 
-$Q$ — charge  
-$I$ — current  
+$Q$ — electric charge  
+$I$ — electric current  
 $t$ — time  
+
+This formula is used to calculate electric current from the charge function.  
+To find the current, we take the derivative of the charge $Q(t)$ with respect to time.  
+If the charge changes faster, the current becomes larger.
 
 ---
 
