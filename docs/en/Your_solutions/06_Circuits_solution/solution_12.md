@@ -3,14 +3,9 @@ A transformer has a primary coil with 1000 turns and a secondary coil with 200 t
 ## Useful definitions and formulas
 
 For an ideal transformer:
-$$transformer ratio formula$$
-
 $$\frac{V_s}{V_p}=\frac{N_s}{N_p}$$
 
-
 Also, power is conserved:
-$$conservation of power formula$$
-
 $$V_p I_p=V_s I_s$$
 
 
