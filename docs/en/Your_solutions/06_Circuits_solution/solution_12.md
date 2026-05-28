@@ -2,7 +2,7 @@
 A transformer has a primary coil with 1000 turns and a secondary coil with 200 turns. If the primary voltage is $120\text{ V}$ (AC), what is the secondary voltage? If the current in the secondary is $3\text{ A}$, what is the current in the primary?
 ## Useful definitions and formulas
 
-For an ideal transformer:
+For an ideal transformer:(transformer ratio formula)
 
 $$\frac{V_s}{V_p}=\frac{N_s}{N_p}$$
 
