@@ -3,9 +3,11 @@ A transformer has a primary coil with 1000 turns and a secondary coil with 200 t
 ## Useful definitions and formulas
 
 For an ideal transformer:
+
 $$\frac{V_s}{V_p}=\frac{N_s}{N_p}$$
 
 Also, power is conserved:
+
 $$V_p I_p=V_s I_s$$
 
 
